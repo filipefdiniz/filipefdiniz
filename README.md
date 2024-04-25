@@ -2,7 +2,7 @@
 
 💻  I'm a software developer with one year of professional and academic experience, currently studying Systems Analysis and Development at PUC Minas, in Belo Horizonte, Brazil.
 <div>
-   <img src="https://github-readme-stats.vercel.app/api?username=filipefdiniz&show_icons=true&theme=dark" alt="GitHub Stats">
+   <img src="https://github-readme-stats.vercel.app/api?username=filipefdiniz&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com/?user=filipefdiniz&theme=dark&hide_border=true&locale=en" alt="GitHub Streak">
 </div>
 <br />
